@@ -27,8 +27,33 @@ use CLASSES
 <h2 class="blue-text">CatPhotoApp</h2>
 
 <style>
-  .blue-text {
-    color: blue;
-  }
+  .blue-text {color: blue;}
+</style>
+
+
+FONT-SIZE
+=========
+<h2 font-size: 30px> TEXT </h2>
+
+
+FONT-SIZE CSS
+==============
+<style>
+p {font-size: 16px;}
+</style>
+
+
+FONT-FAMILY CSS
+==============
+<style>
+h2 {font-family: Sans-serif;}
+</style>
+
+
+IMPORT FONTS FROM GOOGLE
+========================
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  h2 {font-family: Lobster, Monospace;}
 </style>
 
