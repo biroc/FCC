@@ -1,0 +1,7 @@
+
+
+
+<img src="https://www.your-image-source.com/your-image.jpg">
+
+
+<img src="https://www.your-image-source.com/your-image.jpg" alt="Author standing on a beach with two thumbs up. ">
