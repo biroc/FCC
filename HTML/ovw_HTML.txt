@@ -17,3 +17,15 @@ ANCHOR inside Paragraph
 <a href="http://www.freecatphotoapp.com">cat photos</a>
 </p>
 
+Dead Links : #
+==============
+<p>Click here for <a href="#">cat photos</a>.</p>
+
+
+
+
+Nest Image inside a link
+========================
+<a href="#"><img src="https://bit.ly/fcc-running-cats" alt="Three kittens running towards the camera. "></a>
+
+
