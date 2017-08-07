@@ -9,3 +9,11 @@ ANCHOR
 ======
 <a href="http://freecodecamp.org"> Link to Free Code Camp</a>
 
+
+
+ANCHOR inside Paragraph
+=======================
+<p>View more
+<a href="http://www.freecatphotoapp.com">cat photos</a>
+</p>
+
